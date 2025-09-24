@@ -1,6 +1,6 @@
-## Interface: 50500
-## Version: 1.01
-## Author: Pirson, Numbb
+## Interface: 50501
+## Version: 1.02
+## Author: Pirson, xNumbb
 
 
 ## Title: |TInterface/Addons/LootARangClassic/img/logo_larc:16:16|t |cffd597ffLoot-A-Rang Classic|r
