@@ -1,12 +1,57 @@
 ## Interface: 50500, 50501, 50502, 50503, 50504
-## Version: 1.05
+## Version: 1.06
 ## Author: Pirson, xNumbb
 
+## IconTexture: Interface\AddOns\LootARangClassic\img\logo_larc
+## Title: |cffd597ffLoot-A-Rang Classic|r
 
-## Title: |TInterface/Addons/LootARangClassic/img/logo_larc:16:16|t |cffd597ffLoot-A-Rang Classic|r
+# https://warcraft.wiki.gg/wiki/Addon_Categories
+## Category: Miscellaneous
+## Category-deDE: Verschiedenes
+## Category-esES: Miscelánea
+## Category-esMX: Miscelánea
+## Category-frFR: Divers
+## Category-itIT: Varie
+## Category-koKR: 기타
+## Category-ptBR: Diversos
+## Category-ruRU: Разное
+## Category-zhCN: 其他
+## Category-zhTW: 其他
+## Category-plPL: Różne
+## Category-svSE: Diverse
+## Category-noNO: Diverse
+## Category-csCZ: Různé
+## Category-nlNL: Diversen
+## Category-roRO: Diverse
+## Category-huHU: Egyéb
+## Category-elGR: Διάφορα
+## Category-ukUA: Різне
+## Category-daDK: Diverse
+## Category-fiFI: Sekalaiset
+## Category-skSK: Rôzne
+## Category-bgBG: Разни
+## Category-hrHR: Razno
+## Category-srRS: Razno
+## Category-slSI: Razno
+## Category-ltLT: Įvairūs
+## Category-lvLV: Dažādi
+## Category-etEE: Muu
+## Category-idID: Lain-lain
+## Category-msMY: Pelbagai
+## Category-faIR: متفرقه
+## Category-heIL: שונות
+## Category-bnBD: বিবিধ
+## Category-urPK: متفرق
+## Category-taIN: இதர
+## Category-teIN: ఇతరాలు
+## Category-trTR: Çeşitli
+## Category-jaJP: その他
+## Category-arSA: متفرقات
+## Category-hiIN: विविध
+## Category-thTH: เบ็ดเตล็ด
+## Category-viVN: Khác
 
-
-## Notes: |cFF33CCFFAutomatiza Loot-A-Rang in WoW Classic.|r
+## Notes: |cFF33CCFFAutomates the Loot-A-Rang in WoW Classic.|r
 ## Notes-deDE: |cFF33CCFFAutomatisiert Plünderang in WoW Classic.|r
 ## Notes-esES: |cFF33CCFFAutomatiza Despojador a distancia en WoW Classic.|r
 ## Notes-esMX: |cFF33CCFFAutomatiza Despojador a distancia en WoW Classic.|r
@@ -14,14 +59,64 @@
 ## Notes-itIT: |cFF33CCFFAutomatizza Loot-A-Rang in WoW Classic.|r
 ## Notes-koKR: |cFF33CCFFWoW 클래식에서 원거리 획득기을 자동화합니다.|r
 ## Notes-ptBR: |cFF33CCFFAutomatiza Saque-o-rangue no WoW Classic.|r
-## Notes-ptPT: |cFF33CCFFAutomatiza Saque-o-rangue no WoW Classic.|r
 ## Notes-ruRU: |cFF33CCFFАвтоматизирует Поисковик трофеев в WoW Classic.|r
 ## Notes-zhCN: |cFF33CCFF在 WoW Classic 中自动化 远程拾取器。|r
 ## Notes-zhTW: |cFF33CCFF在 WoW Classic 中自動化 撿拾套索。|r
-
+## Notes-plPL: |cFF33CCFFAutomatyzuje Loot-A-Rang w WoW Classic.|r
+## Notes-svSE: |cFF33CCFFAutomatiserar Loot-A-Rang i WoW Classic.|r
+## Notes-noNO: |cFF33CCFFAutomatiserer Loot-A-Rang i WoW Classic.|r
+## Notes-csCZ: |cFF33CCFFAutomatizuje Loot-A-Rang ve WoW Classic.|r
+## Notes-nlNL: |cFF33CCFFAutomatiseert de Loot-A-Rang in WoW Classic.|r
+## Notes-roRO: |cFF33CCFFAutomatizează Loot-A-Rang în WoW Classic.|r
+## Notes-huHU: |cFF33CCFFAutomatizálja a Loot-A-Rangot a WoW Classicban.|r
+## Notes-elGR: |cFF33CCFFΑυτοματοποιεί το Loot-A-Rang στο WoW Classic.|r
+## Notes-ukUA: |cFF33CCFFАвтоматизує Loot-A-Rang у WoW Classic.|r
+## Notes-daDK: |cFF33CCFFAutomatiserer Loot-A-Rang i WoW Classic.|r
+## Notes-fiFI: |cFF33CCFFAutomatisoi Loot-A-Rangin WoW Classicissa.|r
+## Notes-skSK: |cFF33CCFFAutomatizuje Loot-A-Rang vo WoW Classic.|r
+## Notes-bgBG: |cFF33CCFFАвтоматизира Loot-A-Rang в WoW Classic.|r
+## Notes-hrHR: |cFF33CCFFAutomatizira Loot-A-Rang u WoW Classicu.|r
+## Notes-srRS: |cFF33CCFFAutomatizuje Loot-A-Rang u WoW Classicu.|r
+## Notes-slSI: |cFF33CCFFAvtomatizira Loot-A-Rang v WoW Classic.|r
+## Notes-ltLT: |cFF33CCFFAutomatizuoja Loot-A-Rang WoW Classic.|r
+## Notes-lvLV: |cFF33CCFFAutomatizē Loot-A-Rang WoW Classic.|r
+## Notes-etEE: |cFF33CCFFAutomatiseerib Loot-A-Rangi WoW Classicus.|r
+## Notes-idID: |cFF33CCFFMengotomatiskan Loot-A-Rang di WoW Classic.|r
+## Notes-msMY: |cFF33CCFFMengautomasikan Loot-A-Rang dalam WoW Classic.|r
+## Notes-faIR: |cFF33CCFFLoot-A-Rang را در WoW Classic خودکار می‌کند.|r
+## Notes-heIL: |cFF33CCFFהופך את ה-Loot-A-Rang לאוטומטי ב-WoW Classic.|r
+## Notes-bnBD: |cFF33CCFFWoW Classic-এ Loot-A-Rang স্বয়ংক্রিয় করে।|r
+## Notes-urPK: |cFF33CCFFWoW Classic میں Loot-A-Rang کو خودکار بناتا ہے۔|r
+## Notes-taIN: |cFF33CCFFWoW Classic இல் Loot-A-Rang ஐ தானியக்கமாக்குகிறது.|r
+## Notes-teIN: |cFF33CCFFWoW Classic లో Loot-A-Rang ని ఆటోమేట్ చేస్తుంది.|r
+## Notes-trTR: |cFF33CCFFWoW Classic'te Loot-A-Rang'i otomatikleştirir.|r
+## Notes-jaJP: |cFF33CCFFWoW Classic で Loot-A-Rang を自動化します。|r
+## Notes-arSA: |cFF33CCFFيؤتمت Loot-A-Rang في WoW Classic.|r
+## Notes-hiIN: |cFF33CCFFWoW Classic में Loot-A-Rang को स्वचालित करता है।|r
+## Notes-thTH: |cFF33CCFFทำให้ Loot-A-Rang ใน WoW Classic ทำงานอัตโนมัติ|r
+## Notes-viVN: |cFF33CCFFTự động hóa Loot-A-Rang trong WoW Classic.|r
 
 ## X-Curse-Project-ID: 1331866
 ## X-Wago-ID: 4N2mDaGL
 
-
-LootARangClassic.lua
+Locales/enUS.lua
+Locales/esES.lua
+Locales/deDE.lua
+Locales/frFR.lua
+Locales/itIT.lua
+Locales/ptBR.lua
+Locales/ruRU.lua
+Locales/koKR.lua
+Locales/zhCN.lua
+Locales/zhTW.lua
+Locales/plPL.lua
+Locales/svSE.lua
+Locales/noNO.lua
+Locales/trTR.lua
+Locales/jaJP.lua
+Locales/arSA.lua
+Locales/hiIN.lua
+Locales/thTH.lua
+Locales/viVN.lua
+Locales/csCZ.lua
+Core/LootARangClassic.lua
