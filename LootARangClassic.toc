@@ -97,6 +97,11 @@
 ## Notes-viVN: |cFF33CCFFTự động hóa Loot-A-Rang trong WoW Classic.|r
 
 ## X-Curse-Project-ID: 1331866
+## X-License: MIT
+## X-Copyright: Copyright (c) 2025-2026 Pirson and xNumbb
+## X-Website: https://github.com/Pirson-s-Addons/Loot-A-Rang-Classic
+## X-Localizations: enUS, esES, esMX, deDE, frFR, itIT, ptBR, ruRU, koKR, zhCN, zhTW, plPL, svSE, noNO, trTR, jaJP, arSA, hiIN, thTH, viVN, csCZ
+## AddonCompartmentFunc: LootARangClassic_OnAddonCompartmentClick
 ## X-Wago-ID: 4N2mDaGL
 
 Locales/enUS.lua

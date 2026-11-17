@@ -74,3 +74,9 @@ LootARangClassic:SetScript("OnEvent", function(self, event)
         print(prefixError .. "|cffff0000" .. L["DISABLED"] .. "|r")
     end
 end)
+
+-- Menu de addons del minimapa (## AddonCompartmentFunc del .toc): lo mismo que el comando
+function LootARangClassic_OnAddonCompartmentClick()
+    local open = SlashCmdList and SlashCmdList.LOOTARANG
+    if open then open("") end
+end
