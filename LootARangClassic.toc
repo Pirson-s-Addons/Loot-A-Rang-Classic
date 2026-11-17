@@ -1,5 +1,5 @@
 ## Interface: 50500, 50501, 50502, 50503, 50504
-## Version: 1.06
+## Version: 1.07
 ## Author: Pirson, xNumbb
 
 ## IconTexture: Interface\AddOns\LootARangClassic\img\logo_larc
